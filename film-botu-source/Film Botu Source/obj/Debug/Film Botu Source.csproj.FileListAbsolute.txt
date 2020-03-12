@@ -1,0 +1,15 @@
+c:\users\_dangerousman\documents\visual studio 2013\Projects\film-botu-source\Film Botu Source\bin\Debug\Film Botu Source.exe.config
+c:\users\_dangerousman\documents\visual studio 2013\Projects\film-botu-source\Film Botu Source\bin\Debug\Film Botu Source.exe
+c:\users\_dangerousman\documents\visual studio 2013\Projects\film-botu-source\Film Botu Source\bin\Debug\Film Botu Source.pdb
+c:\users\_dangerousman\documents\visual studio 2013\Projects\film-botu-source\Film Botu Source\bin\Debug\HtmlAgilityPack.dll
+c:\users\_dangerousman\documents\visual studio 2013\Projects\film-botu-source\Film Botu Source\bin\Debug\HtmlAgilityPack.pdb
+c:\users\_dangerousman\documents\visual studio 2013\Projects\film-botu-source\Film Botu Source\bin\Debug\HtmlAgilityPack.xml
+c:\users\_dangerousman\documents\visual studio 2013\Projects\film-botu-source\Film Botu Source\obj\Debug\Film Botu Source.csprojResolveAssemblyReference.cache
+c:\users\_dangerousman\documents\visual studio 2013\Projects\film-botu-source\Film Botu Source\obj\Debug\Film_Botu_Source.Form1.resources
+c:\users\_dangerousman\documents\visual studio 2013\Projects\film-botu-source\Film Botu Source\obj\Debug\Film_Botu_Source.Properties.Resources.resources
+c:\users\_dangerousman\documents\visual studio 2013\Projects\film-botu-source\Film Botu Source\obj\Debug\Film Botu Source.csproj.GenerateResource.Cache
+c:\users\_dangerousman\documents\visual studio 2013\Projects\film-botu-source\Film Botu Source\obj\Debug\Film Botu Source.exe
+c:\users\_dangerousman\documents\visual studio 2013\Projects\film-botu-source\Film Botu Source\obj\Debug\Film Botu Source.pdb
+D:\VB6 - C# Projelerim\film-botu-source\Film Botu Source\bin\Debug\Film Botu Source.exe.config
+D:\VB6 - C# Projelerim\film-botu-source\Film Botu Source\obj\Debug\Film Botu Source.exe
+D:\VB6 - C# Projelerim\film-botu-source\Film Botu Source\obj\Debug\Film Botu Source.pdb
